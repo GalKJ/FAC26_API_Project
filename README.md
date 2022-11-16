@@ -6,7 +6,7 @@
 
 To build an app that queries at least two APIs and uses the results to update the DOM. There should be a way for the user to search, filter, sort or otherwise affect what is displayed.
 
-#### Cats, Movies or Places?
+#### Cats, Movies or Places??
 
 For this project we decided to build a website that invites the user to effect the data they receive ✨
 
