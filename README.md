@@ -17,7 +17,7 @@ Adding in the https://data.police.uk/docs/method/neighbourhood-locate/ API to re
 
 ## API's
 [Postcode API](https://api.postcodes.io/)<br>
-[Police Data API] (https://data.police.uk/)<br>
+[Police Data API](https://data.police.uk/)<br>
 [The Movie DB](https://www.themoviedb.org/)<br>
 [The Cat API](https://thecatapi.com/)<br>
 
